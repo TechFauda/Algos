@@ -1,0 +1,9 @@
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\bin\Debug\netcoreapp1.1\Algos.deps.json
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\bin\Debug\netcoreapp1.1\Algos.runtimeconfig.json
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\bin\Debug\netcoreapp1.1\Algos.runtimeconfig.dev.json
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\bin\Debug\netcoreapp1.1\Algos.dll
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\bin\Debug\netcoreapp1.1\Algos.pdb
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\obj\Debug\netcoreapp1.1\Algos.AssemblyInfo.cs
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\obj\Debug\netcoreapp1.1\Algos.dll
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\obj\Debug\netcoreapp1.1\Algos.pdb
+C:\Users\g\Documents\GitHub\Algos\Algos\Algos\obj\Debug\netcoreapp1.1\Algos.csprojResolveAssemblyReference.cache
